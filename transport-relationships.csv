@@ -1,0 +1,12 @@
+src,dst,relationship,cost
+"Strasbourg","Obernai","EROAD",28
+"Strasbourg","Molsheim","EROAD",21
+"Molsheim","Obernai","EROAD",10
+"Obernai","Barr","EROAD",8
+"Barr","Selestat","EROAD",18
+"Strasbourg","Haguenau","EROAD",30
+"Selestat","Lahr","EROAD",48
+"Haguenau","Baden-Baden","EROAD",46
+"Baden-Baden","Achern","EROAD",30
+"Achern","Lahr","EROAD",47
+"Strasbourg","Achern","EROAD",36

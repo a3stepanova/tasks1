@@ -16,5 +16,5 @@ src,dst,relationship
 "Yana","Lera","FOLLOWS"
 "Sasha","Yana","FOLLOWS"
 "Maks","Kate","FOLLOWS"
-"Yana","Anna","FOLLOWS"
+"Sasha","Anna","FOLLOWS"
 "Lera","Sasha","FOLLOWS"
